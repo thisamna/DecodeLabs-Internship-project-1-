@@ -1,0 +1,8 @@
+You: hello
+Bot: Hi there!
+You: how are you?
+Bot: I'm doing great. Thanks for asking!
+You: time
+Bot: Current Time: 04:41 PM
+You: date
+Bot: Today's Date: 13-06-2026
